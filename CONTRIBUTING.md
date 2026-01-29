@@ -23,11 +23,11 @@ Este projeto segue um código de conduta. Ao participar, você concorda em mante
 Encontrou um bug? Ajude-nos a melhorar!
 
 **Antes de reportar:**
-- Verifique se o bug já não foi reportado nas [Issues](../../issues)
+- Verifique se o bug já não foi reportado nas [Issues](https://github.com/oedsonpereira/gerador-5w2h-ia/issues)
 - Certifique-se de estar usando a versão mais recente
 
 **Como reportar:**
-1. Abra uma nova [Issue](../../issues/new)
+1. Abra uma nova [Issue](https://github.com/oedsonpereira/gerador-5w2h-ia/issues/new)
 2. Use o template de bug report
 3. Inclua:
    - Descrição clara do problema
@@ -41,7 +41,7 @@ Encontrou um bug? Ajude-nos a melhorar!
 Tem uma ideia? Adoraríamos ouvir!
 
 1. Verifique se não existe issue similar
-2. Abra uma nova [Issue](../../issues/new)
+2. Abra uma nova [Issue](https://github.com/oedsonpereira/gerador-5w2h-ia/issues/new)
 3. Use o template de feature request
 4. Descreva:
    - Problema que resolve
@@ -229,17 +229,10 @@ gerador-5w2h-ia/
 ├── README.md                   # Documentação principal
 ├── LICENSE                     # Licença MIT
 ├── CONTRIBUTING.md            # Este arquivo
-├── CHANGELOG.md               # Histórico de mudanças
-├── examples/                  # Exemplos de uso
-│   ├── vendas.md
-│   ├── qualidade.md
-│   └── rh.md
-├── docs/                      # Documentação adicional
-│   ├── api-setup.md
-│   └── troubleshooting.md
-└── assets/                    # Recursos visuais
-    ├── demo.gif
-    └── screenshots/
+├── ESTRATEGIA-LINKEDIN.md     # Estratégia de marketing
+├── ROTEIRO-VIDEO.md           # Roteiro para vídeos
+└── examples/                  # Exemplos de uso
+    └── caso-vendas.md
 ```
 
 ### Boas Práticas
@@ -263,7 +256,9 @@ gerador-5w2h-ia/
 
 **NÃO** abra issues públicas para problemas de segurança.
 
-Envie para: [seu.email@exemplo.com]
+Entre em contato diretamente:
+- GitHub: [@oedsonpereira](https://github.com/oedsonpereira)
+- LinkedIn: [@edson-pereira-oliveira](https://www.linkedin.com/in/edson-pereira-oliveira)
 
 Responderemos em até 48h.
 
@@ -300,9 +295,9 @@ Contribuições significativas receberão:
 
 ## 📞 Dúvidas?
 
-- 💬 Abra uma [Discussion](../../discussions)
-- 📧 Email: [seu.email@exemplo.com]
-- 💼 LinkedIn: [@seu-perfil](https://linkedin.com/in/seu-perfil)
+- 💬 Abra uma [Discussion](https://github.com/oedsonpereira/gerador-5w2h-ia/discussions)
+- 🐛 [Issues](https://github.com/oedsonpereira/gerador-5w2h-ia/issues)
+- 💼 LinkedIn: [@edson-pereira-oliveira](https://www.linkedin.com/in/edson-pereira-oliveira)
 
 ## 📚 Recursos Úteis
 
@@ -316,3 +311,13 @@ Contribuições significativas receberão:
 **Obrigado por contribuir! 🎉**
 
 Juntos estamos construindo uma ferramenta melhor para todos.
+
+---
+
+<div align="center">
+
+Mantido por [@oedsonpereira](https://github.com/oedsonpereira)
+
+[⬆ Voltar ao topo](#-contribuindo-para-o-gerador-5w2h-com-ia)
+
+</div>
