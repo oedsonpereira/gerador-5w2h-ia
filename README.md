@@ -154,7 +154,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Oedson Pereira**
 
 - GitHub: [@oedsonpereira](https://github.com/oedsonpereira)
-- LinkedIn: [Conecte-se comigo](https://linkedin.com/in/oedsonpereira)
+- LinkedIn: [@edson-pereira-oliveira](https://www.linkedin.com/in/edson-pereira-oliveira)
 
 ---
 
